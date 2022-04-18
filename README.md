@@ -1,4 +1,5 @@
 # Supervised-Juara
+Supervised Juara merupakan tugas final project Rakamin Data Science Bootcamp 19-B.
 1. Data yang digunakan adalah data e-commerce shipping data dari Kaggle: https://www.kaggle.com/datasets/prachi13/customer-analytics
 2. Model digunakan untuk memprediksi ketepatan waktu pengiriman barang pada sebuah e-commerce
 3. Dilakukan 3 tahapan pada data yaitu, EDA, Pre-Processing dan penentuan model machine learning.
